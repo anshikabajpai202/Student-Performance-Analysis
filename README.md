@@ -126,7 +126,7 @@ The analysis also compares at-risk percentages across gender, parental education
 ```text
 Student_Performance_Analysis/
 │
-├── data/
+├── Data/
 │   └── StudentsPerformance.csv
 │
 ├── Notebook/
